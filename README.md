@@ -12,7 +12,7 @@ This project has been tested on Python 3.7.0 on Ubuntu 20.04. To run this projec
 $ pip install -r requirements.txt
 ```
 
-To show the results obtained in the paper, just run the given main:
+To show the results obtained in the paper, unzip the results file to obtain the original pickle file, place the pickle file in the same folder as the scripts, and then run the main file as:
 ```
 $ python main.py
 ```
